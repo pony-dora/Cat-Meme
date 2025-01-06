@@ -3,3 +3,27 @@ img
 height: 50px
 
 }
+
+.gallery{
+    width: 800px;
+    display: inline-block;
+    margin: 30px 0px 60px 30px
+    
+}
+.gallery h2{
+    font-size: 56px
+}
+.gallery p{
+    font-size: 20px
+}
+
+.imagegallery img{
+    width: 120px;
+    height: 200px;
+    float: right
+}
+.imagegallery{
+    height: 300px;
+    background-color: #E5DDC5;
+    margin: 0px 50px 50px 50px
+}
